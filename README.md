@@ -23,7 +23,7 @@
         </a>
     </h2>
 <img height="26" alt="Static Badge" src="https://img.shields.io/badge/edu%3A%20-%20%23ef3d3a">
-<img height="26" alt="Static Badge" src="https://img.shields.io/badge/fullstack%20python%20developer%20(in%20progress)%20-%20black?label=%5Bnetology.ru%5D&labelColor=ef3d3a">
+<img height="26" alt="Static Badge" src="https://img.shields.io/badge/fullstack%20python%20developer%20-%20black?label=%5Bnetology.ru%5D&labelColor=ef3d3a">
 <a href="https://stepik.org/users/508703630/profile">
     <img height="26" alt="Static Badge" src="https://img.shields.io/badge/my%20profile%20-%20black?label=%5Bstepik.org%5D&labelColor=ef3d3a">
 </a>
