@@ -1,6 +1,6 @@
 <div align="center">
     <h2>
-        𝚏𝚞𝚕𝚕𝚜𝚝𝚊𝚌𝚔 𝚊𝚍𝚎𝚙𝚝
+        𝚏𝚞𝚕𝚕𝚜𝚝𝚊𝚌𝚔 devotee
     </h2>
 </div>
 <div align="center">
