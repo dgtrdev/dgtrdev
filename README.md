@@ -11,7 +11,7 @@
         <img height="26" alt="Static Badge" src="https://img.shields.io/badge/javascript%20-%20black?logo=javascript&logoColor=white&labelColor=ef3d3a">
         <img height="26" alt="Static Badge" src="https://img.shields.io/badge/react%20-%20black?logo=react&logoColor=white&labelColor=ef3d3a">
         <img height="26" alt="Static Badge" src="https://img.shields.io/badge/html5%20-%20black?logo=html5&logoColor=white&labelColor=ef3d3a">
-        <img height="26" alt="Static Badge" src="https://img.shields.io/badge/css3%20-%20black?logo=css3&logoColor=white&labelColor=ef3d3a">
+        <img height="26" alt="Static Badge" src="https://img.shields.io/badge/css%20-%20black?logo=css3&logoColor=white&labelColor=ef3d3a">
         <img height="26" alt="Static Badge" src="https://img.shields.io/badge/sass%20-%20black?logo=sass&logoColor=white&labelColor=ef3d3a">
         <img height="26" alt="Static Badge" src="https://img.shields.io/badge/webpack%20-%20black?logo=webpack&logoColor=white&labelColor=ef3d3a">
         <img height="26" alt="Static Badge" src="https://img.shields.io/badge/git%20-%20black?logo=git&logoColor=white&labelColor=ef3d3a">
