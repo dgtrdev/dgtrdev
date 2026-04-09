@@ -1,6 +1,6 @@
 <div align="center">
     <h2>
-        𝚏𝚞𝚕𝚕𝚜𝚝𝚊𝚌𝚔 devotee
+        𝚏𝚞𝚕𝚕𝚜𝚝𝚊𝚌𝚔 𝚍𝚎𝚟𝚘𝚝𝚎𝚎
     </h2>
 </div>
 <div align="center">
